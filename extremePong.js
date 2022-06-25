@@ -9,7 +9,7 @@ const playerWidth = 10,
   p2Y = canvas.height / 2 - playerHeight / 2,
   move = 5,
   ballRadius = 15;
-//Player and ball movement defaults
+///Player and ball movement defaults
 const P1up = false,
   P1down = false,
   P2up = false,
